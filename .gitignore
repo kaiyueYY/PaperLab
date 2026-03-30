@@ -1,8 +1,4 @@
 node_modules
 dist
-.history
-.DS_Store
-*.pyc
-__pycache__/
 .env
-.env.local
+.DS_Store

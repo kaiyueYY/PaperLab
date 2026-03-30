@@ -1,5 +1,5 @@
 {
-  "name": "教研智筑 - AI 学术工作流",
-  "description": "面向研究者的 AI 驱动学术工作流构建与写作平台，集成文献检索、数据分析与学术写作。",
+  "name": "PaperLab Literature",
+  "description": "基于多智能体深度搜索的文献综述生成器，支持文献上传、自动标签与 APA 规范引用。",
   "requestFramePermissions": []
 }
